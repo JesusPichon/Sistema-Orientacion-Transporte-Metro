@@ -1,0 +1,66 @@
+@charset "ISO-8859-1";
+
+button {
+	font-family: "Cascadia Code";
+	font-size: 15px;
+	margin: 1px;
+	background-color: black; /* Green */
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+h1 {
+	font-family: "Cascadia Code";
+	font-size: 35px;
+	color: white;
+	margin: 1px;
+}
+
+canvas {
+	margin: 1px;
+	padding: 1px;
+	border: 1px;
+}
+
+p {
+	font-family: "Cascadia Code";
+	font-size: 15px;
+	margin: 10px;
+	color: white;
+}
+
+header {
+	text-align: center;
+	margin: 3px;
+}
+
+body {
+	background-color: #3e5f8a;
+}
+
+.panelCanvas {
+	width: 100%;
+	padding-left: 100px;
+}
+
+canvas {
+	box-shadow: 10px 10px 3px -1px rgba(0, 0, 0, 0.66);
+	-webkit-box-shadow: 10px 10px 3px -1px rgba(0, 0, 0, 0.66);
+	-moz-box-shadow: 10px 10px 3px -1px rgba(0, 0, 0, 0.66);
+}
+
+.panelMensaje {
+	width: 200px;
+	text-align: left;
+	margin: 1px;
+}
+
+.main {
+	display: flex;
+	width: 100%;
+	text-align: center;
+}
