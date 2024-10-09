@@ -1,2 +1,2 @@
 # Sistema-Orientacion-Transporte-Metro
-![image](https://user-images.githubusercontent.com/78553293/226504819-cfea0660-294f-4a3e-96c8-c4dfc5a60e3f.png)
+![image](https://objectstorage.sa-santiago-1.oraclecloud.com/n/axtvtikkef9i/b/bucket-projects/o/04-SOTM.png)
